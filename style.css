@@ -12,6 +12,9 @@ button {
     transition: all .3s ease-in-out;
     outline: none!important;
 }
+footer a{
+    color: #000000;
+}
 
 a:hover {
     text-decoration: none;
@@ -106,7 +109,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: rgba(0, 0, 0, 0.7);
 }
 
 .d-bloc button:hover {
@@ -657,7 +660,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000000!important;
 }
 
 .container {
