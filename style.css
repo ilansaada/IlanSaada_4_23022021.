@@ -870,6 +870,9 @@ h4 {
 }
 
 @media (max-width: 991px) {
+    .img__modif{
+        width: 300px;
+    }
     .container {
         width: 100%;
     }
