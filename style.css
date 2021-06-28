@@ -25,7 +25,7 @@ a:hover {
     font-size:1px; 
 }
 
- 
+
 
 #page-loading-blocs-notifaction {
     position: fixed;
@@ -314,6 +314,7 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
+    width: 200px;
 }
 
 .navbar-brand img[src$=svg] {
@@ -662,7 +663,9 @@ a {
     font-weight: 400;
     color: #000000!important;
 }
-
+.fa{
+    color: black;
+}
 .container {
     max-width: 1000px;
 }
@@ -744,9 +747,7 @@ h4 {
     margin-top: 24px;
 }
 
-.white {
-    color: #FFFFFF!important;
-}
+
 
 .portfolio-thumb {
     margin-bottom: 24px;
@@ -789,12 +790,12 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .ltc-white {
