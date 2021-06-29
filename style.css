@@ -303,7 +303,6 @@ a:hover {
 
 .navbar-brand {
     height: auto;
-    padding: 3px 15px;
     font-size: 25px;
     font-weight: normal;
     font-weight: 600;
@@ -960,7 +959,7 @@ h4 {
         color: black;
     }
     .nav > li a{
-       text-decorationn: none;
+       text-decoration: none;
     }
     .li {
         text-decoration: none;
