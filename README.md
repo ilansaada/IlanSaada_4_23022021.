@@ -3,9 +3,9 @@
 ### https://ilansaada.github.io/IlanSaada_4_23022021./index.html
 # La chouette agence
 ---
-## L'objectif de ce projet est d'optimiser une page web avec des la mise en place de bonne pratiques en SEO et accessibilité.
-### En effet,  La chouette agence, une grande agence de web design basée à Lyon.
-### La mission est de permmetre à la chouette agence d'apparaitre dans les premiers resultats du navigateur. 
+## L'objectif de ce projet est d'optimiser une page web avec la mise en place de bonnes pratiques en SEO et accessibilité.
+### La chouette agence,est une grande agence de web design basée à Lyon. qui a besoin d'une vitrine
+### La mission est de permettre à la chouette agence d'apparaître dans les premiers resultats du navigateur. 
 #### Livrables:
 1. Le rapport d’analyse SEO du site, utilisant le modèle fourni, dans lequel on identifie clairement les 10 recommandations sélectionnées ;
 2. Le code source complet du site amélioré ;
