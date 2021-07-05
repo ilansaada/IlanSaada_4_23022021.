@@ -807,6 +807,7 @@ h4 {
 }
 .titre2 {
   color: #000000;
+  font-size: revert;
 }
 .btn-atomic-tangerine {
   background: #f3976c;
