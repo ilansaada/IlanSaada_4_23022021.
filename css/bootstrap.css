@@ -1371,6 +1371,7 @@ th {
 }
 
 * {
+    margin: 40px;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box
@@ -1792,7 +1793,9 @@ ol ol,
 ol ul,
 ul ol,
 ul ul {
-    margin-bottom: 0
+    margin-bottom: 0;
+    display: flex;
+    
 }
 
 .list-unstyled {
