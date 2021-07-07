@@ -725,8 +725,8 @@ p {
   font-size: 16px;
   font-weight: 700;
 }
-
 .social {
+  max-width: none;
   margin: auto auto auto auto;
   padding: 40px;
 }
